@@ -1,0 +1,5 @@
+pinecone 
+groq
+openai==0.28
+streamlit
+requests
